@@ -1,0 +1,19 @@
+{
+  "name": "grants-tools",
+  "version": "0.0.0",
+  "description": "Tools to assist with finding and administering federal grants",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usdigitalresponse/grants-tools.git"
+  },
+  "author": "U.S. Digital Response <cares-grants@usdigitalresponse.org>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/usdigitalresponse/grants-tools/issues"
+  },
+  "homepage": "https://github.com/usdigitalresponse/grants-tools#readme"
+}
